@@ -3,8 +3,6 @@ import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-
-
 public class Assignment {
     public static void main(String[] args) {
 
