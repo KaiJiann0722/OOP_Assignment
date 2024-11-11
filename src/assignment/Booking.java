@@ -7,10 +7,7 @@ package assignment;
 import java.time.LocalDate;
 
 import java.util.ArrayList;
-/**
- *
- * @author DingWei
- */
+
 public class Booking {
     private static int currentBookingID = 10001;
     private String bookingID;
