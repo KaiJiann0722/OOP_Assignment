@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package assignment;
 
-/**
- *
- * @author DingWei
- */
 public class Receptionist {
     private static int currentRecepID = 10001;
     private String recepID;
